@@ -1,0 +1,34 @@
+google-genai
+python-dotenv
+groq
+
+# for data extract from PDF
+requests
+pymupdf
+
+
+pandas
+openpyxl
+feedparser
+
+
+
+# summary
+
+torch
+torchvision
+transformers
+
+
+# RAG
+langchain
+langchain-community==0.0.34
+langchain-huggingface
+sentence-transformers==2.6.1
+faiss-cpu
+numpy
+
+
+neo4j
+pyvis
+openpyxl

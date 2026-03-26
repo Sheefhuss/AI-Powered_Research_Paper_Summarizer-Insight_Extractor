@@ -1,0 +1,27 @@
+
+
+create a dashboard through which we can query our RAG and Knowledge graph 
+
+main.py : main file of our project
+1. add RAG into it 
+
+2. Knowledge graph 
+    a. it contains a dropdown through which we will select domain.     Done 
+    b. total paper, total author, total method                         Done
+    c. showcase retrived data into table format                        Done 
+    d. export retrived data into excel file                            Done
+    e. knowledge graph on the screen                                   Done
+
+
+
+d.title = Machine Learning 
+d.title = Machine learning 
+d.title = machine learning 
+
+
+
+task
+
+switch to groq code 
+decorate streamlit 
+main file in your project
